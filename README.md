@@ -9,38 +9,27 @@
 
 <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=2EA3F7&style=flat" alt="Profile Views" />
 &nbsp;
-<a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/deepak-k-s7/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 &nbsp;
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<a href="mailto:deepak.hsn29@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 &nbsp;
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
+<!-- <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a> -->
 
 </div>
 
 <br/>
 
-## 📌 About Me
+## About Me
 
 I'm a Computer Science undergraduate specializing in **Artificial Intelligence & Machine Learning**, with a strong interest in AI, Full Stack Development, Data Analytics, and Generative AI. I enjoy solving real-world problems through production-ready software and am always looking to deepen my understanding of how AI systems are designed, built, and shipped.
 
-- 🎓 Computer Science undergraduate — AI/ML specialization
-- 🧠 Interested in Generative AI, NLP, and applied Machine Learning
-- 💻 Comfortable across the stack — from data pipelines to user-facing apps
-- 🚀 Focused on building things that actually work, not just demos
+- Computer Science undergraduate — AI/ML specialization
+- Interested in Generative AI, NLP, and applied Machine Learning
+- Comfortable across the stack — from data pipelines to user-facing apps
+-  Focused on building things that actually work, not just demos
 
 <br/>
 
-## 🎯 Current Focus
-
-```text
-🤖  AI-powered Multilingual Disaster Assistance Chatbot
-🛍️  NexaCart Marketplace Intelligence Platform
-📊  DSA for Placements
-🧬  Generative AI
-⚡  FastAPI
-🌐  MERN Stack
-📈  Power BI
-```
 
 <br/>
 
@@ -130,56 +119,6 @@ I'm a Computer Science undergraduate specializing in **Artificial Intelligence &
 
 <br/>
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🗣️ AI-Powered Multilingual Disaster Assistance Chatbot
-Voice-enabled assistant built to deliver disaster response guidance across multiple languages.
-
-`Voice AI` `FastAPI` `NLP` `RAG` `Multilingual` `Disaster Assistance`
-
-[🔗 View Repository](https://github.com/your-username/your-repo)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 NammaCounsellor
-Analytics and prediction platform built on 1.26L+ KCET counseling records.
-
-`1.26L+ Records` `MERN` `Analytics` `Prediction Platform`
-
-[🔗 View Repository](https://github.com/your-username/your-repo)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛍️ NexaCart Marketplace Intelligence
-Business intelligence platform with KPI dashboards over 100K+ marketplace records.
-
-`Business Intelligence` `Power BI` `SQL` `Python` `KPI Dashboard` `100K+ Records`
-
-[🔗 View Repository](https://github.com/your-username/your-repo)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏏 ICC Men's T20 World Cup Analytics Dashboard
-Interactive dashboard analyzing tournament performance and trends.
-
-`Power BI` `DAX` `Python` `Dashboard`
-
-[🔗 View Repository](https://github.com/your-username/your-repo)
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 ## 📊 GitHub Stats
 
