@@ -119,47 +119,6 @@ I'm a Computer Science undergraduate specializing in **Artificial Intelligence &
 
 <br/>
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
-
-</div>
-
-<br/>
-
-## 📚 What I'm Learning
-
-![Advanced DSA](https://img.shields.io/badge/-Advanced%20DSA-2EA3F7?style=flat-square)
-![Generative AI](https://img.shields.io/badge/-Generative%20AI-2EA3F7?style=flat-square)
-![LLMs](https://img.shields.io/badge/-LLMs-2EA3F7?style=flat-square)
-![AI Agents](https://img.shields.io/badge/-AI%20Agents-2EA3F7?style=flat-square)
-![System Design](https://img.shields.io/badge/-System%20Design-2EA3F7?style=flat-square)
-![Cloud](https://img.shields.io/badge/-Cloud-2EA3F7?style=flat-square)
-
-<br/>
-
-## 🏆 Achievements
-
-- Built and shipped multiple AI applications spanning NLP, RAG, and voice interfaces
-- Developed full-stack projects across the MERN and FastAPI ecosystems
-- Designed data analytics dashboards using Power BI and Python
-- Gained hands-on internship experience applying AI/ML in real-world settings
-- Held leadership roles across technical clubs and community initiatives
-
-<br/>
-
 ## 🤝 Leadership
 
 | Role | Organization |
@@ -176,7 +135,7 @@ I'm a Computer Science undergraduate specializing in **Artificial Intelligence &
 
 ## 📫 Connect With Me
 
-<a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/Deepak-0318"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/your-linkedin/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
